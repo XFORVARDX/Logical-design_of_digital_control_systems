@@ -1,0 +1,43 @@
+Pin Freeze File:  version G.35
+
+95288XL144 XC95288XL-6-TQ144
+X1 S:PIN136
+X2 S:PIN94
+X4 S:PIN2
+X8 S:PIN132
+A S:PIN9
+B S:PIN14
+C S:PIN50
+D S:PIN117
+E S:PIN100
+F S:PIN79
+G S:PIN124
+
+
+;The remaining section of the .gyd file is for documentation purposes only.
+;It shows where your internal equations were placed in the last successful fit.
+
+
+PARTITION FB2_2 A_OBUF
+PARTITION FB2_10 B_OBUF
+
+
+
+
+
+
+
+PARTITION FB9_2 C_OBUF
+
+PARTITION FB10_2 D_OBUF
+PARTITION FB10_10 G_OBUF
+
+
+
+
+PARTITION FB14_3 E_OBUF
+
+PARTITION FB15_2 F_OBUF
+
+
+

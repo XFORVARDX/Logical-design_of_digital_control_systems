@@ -1,0 +1,18 @@
+Release 6.3.03i - xst G.38
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.38 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file F:/dc_7_16/Seg_ee.vhf in Library work.
+Architecture behavioral of Entity seg_ee is up to date.
+CPU : 0.42 / 0.80 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 48024 kilobytes
+
+

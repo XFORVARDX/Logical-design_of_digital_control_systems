@@ -1,0 +1,2888 @@
+# Schematic : PDCL (jhdparse)
+__projnav/seg_a_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_a_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_b_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/d_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/d_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_c_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_d_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_f_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_e_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_a_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_b_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_c_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_d_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_f_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_g_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_a.vhf
+seg_a.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/seg_b_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : Update All Schematic Files
+dc_7_16._u_
+# HDL Converter
+# TDO (to VHDL/Verilog) Converter
+__projnav/TOvhd_tcl.rsp
+__projnav/TOver_tcl.rsp
+__projnav/TO_tcf_tcl.rsp
+# Schematic : Update All Schematic Files
+dc_7_16._u_
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# XST (Creating Lso File) : 
+seg_a.lso
+# Check Syntax
+seg_a.stx
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# Schematic : View VHDL Functional Model
+seg_d.vhf
+seg_d.cmd_log
+# Schematic : View VHDL Functional Model
+seg_e.vhf
+seg_e.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_a_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# XST (Creating Lso File) : 
+seg_aa.lso
+# Check Syntax
+seg_aa.stx
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# XST (Creating Lso File) : 
+seg_bb.lso
+# Check Syntax
+seg_bb.stx
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_cc.vhf
+seg_cc.cmd_log
+# XST (Creating Lso File) : 
+seg_cc.lso
+# Check Syntax
+seg_cc.stx
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# XST (Creating Lso File) : 
+seg_dd.lso
+# Check Syntax
+seg_dd.stx
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# XST (Creating Lso File) : 
+seg_ff.lso
+# Check Syntax
+seg_ff.stx
+# Schematic : View VHDL Functional Model
+seg_gg.vhf
+seg_gg.cmd_log
+# XST (Creating Lso File) : 
+seg_gg.lso
+# Check Syntax
+seg_gg.stx
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ee.vhf
+seg_ee.cmd_log
+# XST (Creating Lso File) : 
+schema1.lso
+# Check Syntax
+schema1.stx
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+schema1.ngc
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+dc_7_16.ngc
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Assign Package Pins
+__projnav/parentAssignPackagePinsApp_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# Schematic : View VHDL Functional Model
+seg_cc.vhf
+seg_cc.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# XST (Creating Lso File) : 
+schema1.lso
+# Check Syntax
+schema1.stx
+dc_7_16.ngc
+schema1.ngc
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# Check Syntax
+dc_7_16.stx
+dc_7_16.ngc
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+dc_7_16.ngc
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Configure Device (iMPACT)
+dc_7_16.prm
+dc_7_16.isc
+dc_7_16.svf
+xilinx.sys
+dc_7_16.mcs
+dc_7_16.exo
+dc_7_16.hex
+dc_7_16.tek
+dc_7_16.dst
+dc_7_16.dst_compressed
+dc_7_16.mpm
+_impact.cmd
+_impact.log
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Configure Device (iMPACT)
+dc_7_16.prm
+dc_7_16.isc
+dc_7_16.svf
+xilinx.sys
+dc_7_16.mcs
+dc_7_16.exo
+dc_7_16.hex
+dc_7_16.tek
+dc_7_16.dst
+dc_7_16.dst_compressed
+dc_7_16.mpm
+_impact.cmd
+_impact.log
+# Configure Device (iMPACT)
+dc_7_16.prm
+dc_7_16.isc
+dc_7_16.svf
+xilinx.sys
+dc_7_16.mcs
+dc_7_16.exo
+dc_7_16.hex
+dc_7_16.tek
+dc_7_16.dst
+dc_7_16.dst_compressed
+dc_7_16.mpm
+_impact.cmd
+_impact.log
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# XST (Creating Lso File) : 
+seg_aa.lso
+# Check Syntax
+seg_aa.stx
+# XST (Creating Lso File) : 
+seg_bb.lso
+# Check Syntax
+seg_bb.stx
+# XST (Creating Lso File) : 
+seg_bb.lso
+# Check Syntax
+seg_bb.stx
+# XST (Creating Lso File) : 
+seg_cc.lso
+# Check Syntax
+seg_cc.stx
+# XST (Creating Lso File) : 
+seg_dd.lso
+# Check Syntax
+seg_dd.stx
+# XST (Creating Lso File) : 
+seg_ee.lso
+# Check Syntax
+seg_ee.stx
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# Schematic : View VHDL Functional Model
+seg_cc.vhf
+seg_cc.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ee.vhf
+seg_ee.cmd_log
+# Schematic : View VHDL Functional Model
+seg_gg.vhf
+seg_gg.cmd_log
+# XST (Creating Lso File) : 
+schema1.lso
+# Check Syntax
+schema1.stx
+dc_7_16.ngc
+schema1.ngc
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# XST (Creating Lso File) : 
+schema1.lso
+# Check Syntax
+schema1.stx
+dc_7_16.ngc
+schema1.ngc
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# XST (Creating Lso File) : 
+schema1.lso
+# Check Syntax
+schema1.stx
+dc_7_16.ngc
+schema1.ngc
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Configure Device (iMPACT)
+schema1.prm
+schema1.isc
+schema1.svf
+xilinx.sys
+schema1.mcs
+schema1.exo
+schema1.hex
+schema1.tek
+schema1.dst
+schema1.dst_compressed
+schema1.mpm
+_impact.cmd
+_impact.log
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Implmentation : FitRpt
+schema1_html
+schema1._hrpt
+schema1.cmd_log
+# Implmentation : FitRpt
+schema1.imp
+# Schematic : Update All Schematic Files
+dc_7_16._u_
+# Schematic : Update All Schematic Files
+dc_7_16._u_
+# Compile HDL Simulation Libraries
+compxlib.log
+dc_7_16.cxl
+# HDL Converter
+# TDO (to VHDL/Verilog) Converter
+__projnav/TOvhd_tcl.rsp
+__projnav/TOver_tcl.rsp
+__projnav/TO_tcf_tcl.rsp
+# Implmentation : FitRpt
+schema1.imp
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+dc_7_16.ngc
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp
+# Implmentation : FitRpt
+schema1.imp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# Schematic : View VHDL Functional Model
+seg_cc.vhf
+seg_cc.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ee.vhf
+seg_ee.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : View VHDL Functional Model
+seg_gg.vhf
+seg_gg.cmd_log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+dc_7_16.ngc
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp
+# XST (Creating Lso File) : 
+schema1.lso
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Implmentation : FitRpt
+schema1_html
+schema1._hrpt
+schema1.cmd_log
+# Implmentation : FitRpt
+schema1.imp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Implmentation : FitRpt
+schema1.imp
+# Implmentation : FitRpt
+dc_7_16.imp
+# XST (Creating Lso File) : 
+schema1.lso
+# xst flow : RunXST
+schema1.syr
+schema1.prj
+schema1.sprj
+schema1.ana
+schema1.stx
+schema1.cmd_log
+dc_7_16.ngc
+schema1.ngc
+dc_7_16.ngr
+schema1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1_edfTOngd_tcl.rsp
+schema1.ngd
+schema1.bld
+schema1_ngdbuild.nav
+_ngo/netlist.lst
+bind.ucf.untf
+schema1_html
+schema1.cmd_log
+# Implmentation : Fit
+__projnav/schema1_ngdTOvm6_tcl.rsp
+schema1.vm6
+schema1.cxt
+schema1.blx
+schema1.mfd
+schema1.rpt
+schema1.log
+schema1.pnx
+schema1.gyd
+schema1.xml
+schema1_build.xml
+dc_7_16.ptf
+schema1.bl
+errors.xml
+tmperr.err
+schema1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1_vm6TOjed_tcl.rsp
+schema1.jed
+schema1.isc
+schema1.cmd_log
+# Implmentation : FitRpt
+schema1_html
+schema1._hrpt
+schema1.cmd_log
+# Implmentation : FitRpt
+schema1.imp
+# ProjNav -> New Source -> TBW
+C:\Users\FORVARD\Desktop\dc_7_16\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+fORVARD.vhw
+fORVARD.ano
+fORVARD.tfw
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# Schematic : View VHDL Functional Model
+seg_cc.vhf
+seg_cc.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ee.vhf
+seg_ee.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : View VHDL Functional Model
+seg_gg.vhf
+seg_gg.cmd_log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+dc_7_16.ngc
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : View VHDL Functional Model
+schema1.vhf
+schema1.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/shem1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/shem1_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+shem1.vhf
+shem1.cmd_log
+# XST (Creating Lso File) : 
+shem1.lso
+# xst flow : RunXST
+shem1.syr
+shem1.prj
+shem1.sprj
+shem1.ana
+shem1.stx
+shem1.cmd_log
+dc_7_16.ngc
+shem1.ngc
+dc_7_16.ngr
+shem1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/shem1_edfTOngd_tcl.rsp
+shem1.ngd
+shem1.bld
+shem1_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+shem1_html
+shem1.cmd_log
+# Implmentation : Fit
+__projnav/shem1_ngdTOvm6_tcl.rsp
+shem1.vm6
+shem1.cxt
+shem1.blx
+shem1.mfd
+shem1.rpt
+shem1.log
+shem1.pnx
+shem1.gyd
+shem1.xml
+shem1_build.xml
+dc_7_16.ptf
+shem1.bl
+errors.xml
+tmperr.err
+shem1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/shem1_vm6TOjed_tcl.rsp
+shem1.jed
+shem1.isc
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1_html
+shem1._hrpt
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1.imp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# XST (Creating Lso File) : 
+seg_ee.lso
+# xst flow : RunXST
+seg_ee.syr
+seg_ee.prj
+seg_ee.sprj
+seg_ee.ana
+seg_ee.stx
+seg_ee.cmd_log
+seg_ee.ngc
+seg_ee.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/seg_ee_edfTOngd_tcl.rsp
+seg_ee.ngd
+seg_ee.bld
+seg_ee_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+seg_ee_html
+seg_ee.cmd_log
+# Implmentation : Fit
+__projnav/seg_ee_ngdTOvm6_tcl.rsp
+seg_ee.vm6
+seg_ee.cxt
+seg_ee.blx
+seg_ee.mfd
+seg_ee.rpt
+seg_ee.log
+seg_ee.pnx
+seg_ee.gyd
+seg_ee.xml
+seg_ee_build.xml
+dc_7_16.ptf
+seg_ee.bl
+errors.xml
+tmperr.err
+seg_ee.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/seg_ee_vm6TOjed_tcl.rsp
+seg_ee.jed
+seg_ee.isc
+seg_ee.cmd_log
+# Implmentation : FitRpt
+seg_ee_html
+seg_ee._hrpt
+seg_ee.cmd_log
+# Implmentation : FitRpt
+seg_ee.imp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# XST (Creating Lso File) : 
+shem1.lso
+# xst flow : RunXST
+shem1.syr
+shem1.prj
+shem1.sprj
+shem1.ana
+shem1.stx
+shem1.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+shem1.ngc
+seg_ee.ngr
+dc_7_16.ngr
+shem1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/shem1_edfTOngd_tcl.rsp
+shem1.ngd
+shem1.bld
+shem1_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+shem1_html
+shem1.cmd_log
+# Implmentation : Fit
+__projnav/shem1_ngdTOvm6_tcl.rsp
+shem1.vm6
+shem1.cxt
+shem1.blx
+shem1.mfd
+shem1.rpt
+shem1.log
+shem1.pnx
+shem1.gyd
+shem1.xml
+shem1_build.xml
+dc_7_16.ptf
+shem1.bl
+errors.xml
+tmperr.err
+shem1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/shem1_vm6TOjed_tcl.rsp
+shem1.jed
+shem1.isc
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1_html
+shem1._hrpt
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1.imp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+seg_ee.ngr
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# XST (Creating Lso File) : 
+shem1.lso
+# xst flow : RunXST
+shem1.syr
+shem1.prj
+shem1.sprj
+shem1.ana
+shem1.stx
+shem1.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+shem1.ngc
+seg_ee.ngr
+dc_7_16.ngr
+shem1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/shem1_edfTOngd_tcl.rsp
+shem1.ngd
+shem1.bld
+shem1_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+shem1_html
+shem1.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# ProjNav -> New Source -> TBW
+C:\project\dc_7_16\__projnav\hb_cmds
+# Schematic : Update All Schematic Files
+dc_7_16._u_
+# Schematic : Update All Schematic Files
+seg_aa._u_
+# Schematic : Update All Schematic Files
+seg_bb._u_
+# Schematic : Update All Schematic Files
+seg_cc._u_
+# Schematic : Update All Schematic Files
+seg_dd._u_
+# Schematic : Update All Schematic Files
+seg_ee._u_
+# Schematic : Update All Schematic Files
+seg_ff._u_
+# Schematic : Update All Schematic Files
+seg_gg._u_
+# Schematic : Update All Schematic Files
+shem1._u_
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Compile HDL Simulation Libraries
+compxlib.log
+dc_7_16.cxl
+# HDL Converter
+# TDO (to VHDL/Verilog) Converter
+__projnav/TOvhd_tcl.rsp
+__projnav/TOver_tcl.rsp
+__projnav/TO_tcf_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_aa.vhf
+seg_aa.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+seg_ee.ngr
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Post-Fit Simulation Model
+__projnav/dc_7_16_vm6TOnga_tcl.rsp
+dc_7_16.nga
+dc_7_16.cmd_log
+# Implmentation : Generate Post-Par Simulation Model (VHDL flow)
+dc_7_16_timesim.vhd
+dc_7_16_timesim.vhd
+ngaTOdc_7_16.vhdsim_par
+dc_7_16.vhdsim_par
+dc_7_16_timesim.nlf
+dc_7_16.cmd_log
+# Simulation :Simulate Post-Place & Route VHDL Model
+Test.timesim_vhw
+_remap.tmp
+__projnav/ptb.rsp
+# ModelSim : Simulate Post-Place & Route VHDL Model
+Test.tdo
+# ModelSim : Simulate Post-Place & Route VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+seg_ee.ngr
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Post-Fit Simulation Model
+__projnav/dc_7_16_vm6TOnga_tcl.rsp
+dc_7_16.nga
+dc_7_16.cmd_log
+# Implmentation : Generate Post-Par Simulation Model (VHDL flow)
+dc_7_16_timesim.vhd
+dc_7_16_timesim.vhd
+ngaTOdc_7_16.vhdsim_par
+dc_7_16.vhdsim_par
+dc_7_16_timesim.nlf
+dc_7_16.cmd_log
+# Simulation :Simulate Post-Place & Route VHDL Model
+Test.timesim_vhw
+_remap.tmp
+__projnav/ptb.rsp
+# ModelSim : Simulate Post-Place & Route VHDL Model
+Test.tdo
+# ModelSim : Simulate Post-Place & Route VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+shem1.vhf
+shem1.cmd_log
+# Schematic : View VHDL Functional Model
+shem1.vhf
+shem1.cmd_log
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : View VHDL Functional Model
+shem1.vhf
+shem1.cmd_log
+# Schematic : View VHDL Functional Model
+shem1.vhf
+shem1.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+shem1.lso
+# xst flow : RunXST
+shem1.syr
+shem1.prj
+shem1.sprj
+shem1.ana
+shem1.stx
+shem1.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+shem1.ngc
+seg_ee.ngr
+dc_7_16.ngr
+shem1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/shem1_edfTOngd_tcl.rsp
+shem1.ngd
+shem1.bld
+shem1_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+shem1_html
+shem1.cmd_log
+# Implmentation : Fit
+__projnav/shem1_ngdTOvm6_tcl.rsp
+shem1.vm6
+shem1.cxt
+shem1.blx
+shem1.mfd
+shem1.rpt
+shem1.log
+shem1.pnx
+shem1.gyd
+shem1.xml
+shem1_build.xml
+dc_7_16.ptf
+shem1.bl
+errors.xml
+tmperr.err
+shem1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/shem1_vm6TOjed_tcl.rsp
+shem1.jed
+shem1.isc
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1_html
+shem1._hrpt
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1.imp
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+shem1.lso
+# xst flow : RunXST
+shem1.syr
+shem1.prj
+shem1.sprj
+shem1.ana
+shem1.stx
+shem1.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+shem1.ngc
+seg_ee.ngr
+dc_7_16.ngr
+shem1.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/shem1_edfTOngd_tcl.rsp
+shem1.ngd
+shem1.bld
+shem1_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+shem1_html
+shem1.cmd_log
+# Implmentation : Fit
+__projnav/shem1_ngdTOvm6_tcl.rsp
+shem1.vm6
+shem1.cxt
+shem1.blx
+shem1.mfd
+shem1.rpt
+shem1.log
+shem1.pnx
+shem1.gyd
+shem1.xml
+shem1_build.xml
+dc_7_16.ptf
+shem1.bl
+errors.xml
+tmperr.err
+shem1.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/shem1_vm6TOjed_tcl.rsp
+shem1.jed
+shem1.isc
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1_html
+shem1._hrpt
+shem1.cmd_log
+# Implmentation : FitRpt
+shem1.imp
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+seg_ee.ngr
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_ff.vhf
+seg_ff.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_dd.vhf
+seg_dd.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+dc_7_16.vhf
+dc_7_16.cmd_log
+# Schematic : View VHDL Functional Model
+seg_bb.vhf
+seg_bb.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+Test.vhw
+Test.ano
+Test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+Test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+schema1verb_html
+schema1verb.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_b_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_b_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+schema1verb.vhf
+schema1verb.cmd_log
+# Schematic : View VHDL Functional Model
+block_a.vhf
+block_a.cmd_log
+# Schematic : View VHDL Functional Model
+block_b.vhf
+block_b.cmd_log
+# Schematic : View VHDL Functional Model
+block_c.vhf
+block_c.cmd_log
+# Schematic : View VHDL Functional Model
+block_d.vhf
+block_d.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Schematic : PDCL (jhdparse)
+__projnav/block_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_C_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+block_c.vhf
+block_c.cmd_log
+# XST (Creating Lso File) : 
+schema1verb.lso
+# xst flow : RunXST
+schema1verb.syr
+schema1verb.prj
+schema1verb.sprj
+schema1verb.ana
+schema1verb.stx
+schema1verb.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+schema1verb.ngc
+seg_ee.ngr
+dc_7_16.ngr
+schema1verb.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Implmentation : Translate (CPLD flow)
+__projnav/schema1verb_edfTOngd_tcl.rsp
+schema1verb.ngd
+schema1verb.bld
+schema1verb_ngdbuild.nav
+_ngo/netlist.lst
+button.ucf.untf
+schema1verb_html
+schema1verb.cmd_log
+# Implmentation : Fit
+__projnav/schema1verb_ngdTOvm6_tcl.rsp
+schema1verb.vm6
+schema1verb.cxt
+schema1verb.blx
+schema1verb.mfd
+schema1verb.rpt
+schema1verb.log
+schema1verb.pnx
+schema1verb.gyd
+schema1verb.xml
+schema1verb_build.xml
+dc_7_16.ptf
+schema1verb.bl
+errors.xml
+tmperr.err
+schema1verb.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/schema1verb_vm6TOjed_tcl.rsp
+schema1verb.jed
+schema1verb.isc
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb_html
+schema1verb._hrpt
+schema1verb.cmd_log
+# Implmentation : FitRpt
+schema1verb.imp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp

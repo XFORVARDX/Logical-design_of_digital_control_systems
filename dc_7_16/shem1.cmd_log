@@ -1,0 +1,23 @@
+sch2vhdl -family xc9500xl -flat -suppress -w shem1.sch shem1.vhf
+xst -intstyle ise -ifn __projnav/shem1.xst -ofn shem1.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl shem1.ngc shem1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper shem1.ngd
+hprep6 -s IEEE1149 -n shem1 -i shem1
+XSLTProcess "shem1_build.xml"
+xst -intstyle ise -ifn __projnav/shem1.xst -ofn shem1.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl shem1.ngc shem1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper shem1.ngd
+hprep6 -s IEEE1149 -n shem1 -i shem1
+XSLTProcess "shem1_build.xml"
+xst -intstyle ise -ifn __projnav/shem1.xst -ofn shem1.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl shem1.ngc shem1.ngd
+xst -intstyle ise -ifn __projnav/shem1.xst -ofn shem1.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl shem1.ngc shem1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper shem1.ngd
+hprep6 -s IEEE1149 -n shem1 -i shem1
+XSLTProcess "shem1_build.xml"
+xst -intstyle ise -ifn __projnav/shem1.xst -ofn shem1.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl shem1.ngc shem1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper shem1.ngd
+hprep6 -s IEEE1149 -n shem1 -i shem1
+XSLTProcess "shem1_build.xml"

@@ -1,0 +1,317 @@
+# XST flow : Creating project file
+seg_a.prj
+# xst flow : Check Syntax
+seg_a.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_a.xst
+xst
+# XST flow : Creating project file
+seg_aa.prj
+# xst flow : Check Syntax
+seg_aa.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_aa.xst
+xst
+# XST flow : Creating project file
+seg_bb.prj
+# xst flow : Check Syntax
+seg_bb.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_bb.xst
+xst
+# XST flow : Creating project file
+seg_cc.prj
+# xst flow : Check Syntax
+seg_cc.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_cc.xst
+xst
+# XST flow : Creating project file
+seg_dd.prj
+# xst flow : Check Syntax
+seg_dd.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_dd.xst
+xst
+# XST flow : Creating project file
+seg_ff.prj
+# xst flow : Check Syntax
+seg_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_ff.xst
+xst
+# XST flow : Creating project file
+seg_gg.prj
+# xst flow : Check Syntax
+seg_gg.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_gg.xst
+xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : Check Syntax
+schema1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/schema1.xst
+xst
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : Check Syntax
+schema1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/schema1.xst
+xst
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : Check Syntax
+dc_7_16.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dc_7_16.xst
+xst
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+seg_aa.prj
+# xst flow : Check Syntax
+seg_aa.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_aa.xst
+xst
+# XST flow : Creating project file
+seg_bb.prj
+# xst flow : Check Syntax
+seg_bb.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_bb.xst
+xst
+# xst flow : Check Syntax
+seg_bb.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_bb.xst
+xst
+# XST flow : Creating project file
+seg_cc.prj
+# xst flow : Check Syntax
+seg_cc.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_cc.xst
+xst
+# XST flow : Creating project file
+seg_dd.prj
+# xst flow : Check Syntax
+seg_dd.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_dd.xst
+xst
+# XST flow : Creating project file
+seg_ee.prj
+# xst flow : Check Syntax
+seg_ee.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/seg_ee.xst
+xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : Check Syntax
+schema1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/schema1.xst
+xst
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : Check Syntax
+schema1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/schema1.xst
+xst
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : Check Syntax
+schema1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/schema1.xst
+xst
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+schema1.prj
+# xst flow : RunXST
+schema1.prj
+__projnav/schema1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+shem1.prj
+# xst flow : RunXST
+shem1.prj
+__projnav/shem1.xst
+./xst
+# XST flow : Creating project file
+seg_ee.prj
+# xst flow : RunXST
+seg_ee.prj
+__projnav/seg_ee.xst
+./xst
+# XST flow : Creating project file
+shem1.prj
+# xst flow : RunXST
+shem1.prj
+__projnav/shem1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+shem1.prj
+# xst flow : RunXST
+shem1.prj
+__projnav/shem1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+shem1.prj
+# xst flow : RunXST
+shem1.prj
+__projnav/shem1.xst
+./xst
+# XST flow : Creating project file
+shem1.prj
+# xst flow : RunXST
+shem1.prj
+__projnav/shem1.xst
+./xst
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst
+# XST flow : Creating project file
+schema1verb.prj
+# xst flow : RunXST
+schema1verb.prj
+__projnav/schema1verb.xst
+./xst

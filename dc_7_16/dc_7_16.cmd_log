@@ -1,0 +1,68 @@
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+XSLTProcess "dc_7_16_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+XSLTProcess "dc_7_16_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+XSLTProcess "dc_7_16_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+XSLTProcess "dc_7_16_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+tsim dc_7_16 dc_7_16.nga
+netgen -rpw 100 -ar Structure -xon true -w -ofmt vhdl -sim dc_7_16.nga dc_7_16_timesim.vhd
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+tsim dc_7_16 dc_7_16.nga
+netgen -rpw 100 -ar Structure -xon true -w -ofmt vhdl -sim dc_7_16.nga dc_7_16_timesim.vhd
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16
+XSLTProcess "dc_7_16_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w DC_7_16.sch dc_7_16.vhf
+xst -intstyle ise -ifn __projnav/dc_7_16.xst -ofn dc_7_16.syr
+ngdbuild -dd _ngo -i -p xc9500xl dc_7_16.ngc dc_7_16.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper dc_7_16.ngd
+hprep6 -s IEEE1149 -n dc_7_16 -i dc_7_16

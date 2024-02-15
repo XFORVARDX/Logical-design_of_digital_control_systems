@@ -1,0 +1,20 @@
+Release  - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl seg_ee.ngc seg_ee.ngd 
+
+Reading NGO file "C:/Users/FORVARD/Desktop/dc_7_16/seg_ee.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 74680 kilobytes
+
+Writing NGD file "seg_ee.ngd" ...
+
+Writing NGDBUILD log file "seg_ee.bld"...

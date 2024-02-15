@@ -1,0 +1,6 @@
+# XST flow : Creating project file
+dc_7_16.prj
+# xst flow : RunXST
+dc_7_16.prj
+__projnav/dc_7_16.xst
+./xst

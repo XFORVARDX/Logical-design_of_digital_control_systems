@@ -1,0 +1,12 @@
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+xst -intstyle ise -ifn __projnav/seg_c.xst -ofn seg_c.syr
+ngdbuild -dd _ngo -i -p xc9500xl seg_c.ngc seg_c.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper seg_c.ngd
+hprep6 -s IEEE1149 -n seg_c -i seg_c
+XSLTProcess "seg_c_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w seg_C.sch seg_c.vhf

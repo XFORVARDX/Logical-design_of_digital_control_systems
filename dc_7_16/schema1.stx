@@ -1,0 +1,34 @@
+Release 6.3.03i - xst G.38
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.38 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file F:/dc_7_16/Seg_aa.vhf in Library work.
+Entity <seg_aa> (Architecture <behavioral>) compiled.
+Compiling vhdl file F:/dc_7_16/Seg_bb.vhf in Library work.
+Architecture behavioral of Entity seg_bb is up to date.
+Compiling vhdl file F:/dc_7_16/Seg_cc.vhf in Library work.
+Architecture behavioral of Entity seg_cc is up to date.
+Compiling vhdl file F:/dc_7_16/Seg_dd.vhf in Library work.
+Architecture behavioral of Entity seg_dd is up to date.
+Compiling vhdl file F:/dc_7_16/Seg_ee.vhf in Library work.
+Architecture behavioral of Entity seg_ee is up to date.
+Compiling vhdl file F:/dc_7_16/Seg_ff.vhf in Library work.
+Architecture behavioral of Entity seg_ff is up to date.
+Compiling vhdl file F:/dc_7_16/Seg_gg.vhf in Library work.
+Architecture behavioral of Entity seg_gg is up to date.
+Compiling vhdl file F:/dc_7_16/DC_7_16.vhf in Library work.
+Architecture behavioral of Entity dc_7_16 is up to date.
+Compiling vhdl file F:/dc_7_16/schema1.vhf in Library work.
+Architecture behavioral of Entity schema1 is up to date.
+CPU : 1.55 / 1.92 s | Elapsed : 2.00 / 2.00 s
+ 
+--> 
+
+Total memory usage is 49048 kilobytes
+
+

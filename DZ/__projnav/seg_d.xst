@@ -1,0 +1,29 @@
+set -tmpdir __projnav
+set -xsthdpdir ./xst
+run
+-ifn seg_d.prj
+-ifmt mixed
+-ofn seg_d
+-ofmt NGC
+-p xc9500xl
+-top seg_d
+-opt_mode Speed
+-opt_level 1
+-iuc NO
+-lso seg_d.lso
+-keep_hierarchy YES
+-rtlview Yes
+-hierarchy_separator _
+-bus_delimiter <>
+-case maintain
+-verilog2001 YES
+-vlgincdir 
+-fsm_extract YES -fsm_encoding Auto
+-mux_extract YES
+-resource_sharing YES
+-iobuf YES
+-equivalent_register_removal YES
+-pld_mp YES
+-pld_xp YES
+-pld_ce YES
+-wysiwyg NO

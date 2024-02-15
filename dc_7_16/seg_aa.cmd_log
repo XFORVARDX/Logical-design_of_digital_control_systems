@@ -1,0 +1,10 @@
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w Seg_aa.sch seg_aa.vhf

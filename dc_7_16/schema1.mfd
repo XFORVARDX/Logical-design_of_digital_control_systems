@@ -1,0 +1,78 @@
+MDF Database:  version 1.0
+MDF_INFO | schema1 | XC95288XL-6-TQ144
+MACROCELL | 3 | 13 | A_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X4  | X2  | X1
+INPUTP | 4 | 190 | 191 | 193 | 195
+EQ | 4 | 
+   A = X8 & X4 & !X2 & X1
+	# X8 & !X4 & X2 & X1
+	# !X8 & X4 & !X2 & !X1
+	# !X8 & !X4 & !X2 & X1;
+
+MACROCELL | 1 | 1 | B_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X4  | X2  | X1
+INPUTP | 4 | 190 | 191 | 193 | 195
+EQ | 3 | 
+   B = X8 & X4 & X2
+	# !X8 & X4 & X1
+	# X8 & !X4 & !X2 & X1;
+
+MACROCELL | 1 | 7 | F_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X4  | X2  | X1
+INPUTP | 4 | 190 | 191 | 193 | 195
+EQ | 4 | 
+   F = !X8 & !X4 & X2
+	# !X8 & !X4 & X1
+	# !X8 & X2 & X1
+	# X8 & X4 & X2 & !X1;
+
+MACROCELL | 1 | 2 | C_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X2  | X1  | X4
+INPUTP | 4 | 190 | 193 | 195 | 191
+EQ | 3 | 
+   C = X8 & X4 & X2
+	# X8 & X2 & !X1
+	# !X8 & X4 & !X2 & !X1;
+
+MACROCELL | 1 | 4 | D_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X4  | X1  | X2
+INPUTP | 4 | 190 | 191 | 195 | 193
+EQ | 3 | 
+   D = X8 & X2 & X1
+	# !X8 & !X4 & X1
+	# X8 & !X4 & !X2 & !X1;
+
+MACROCELL | 1 | 5 | E_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X4  | X1  | X8  | X2
+INPUTP | 4 | 191 | 195 | 190 | 193
+EQ | 3 | 
+   E = !X4 & X1
+	# X8 & !X4 & X2
+	# !X8 & !X2 & X1;
+
+MACROCELL | 1 | 9 | G_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X8  | X4  | X2  | X1
+INPUTP | 4 | 190 | 191 | 193 | 195
+EQ | 3 | 
+   G = !X8 & !X4 & !X2
+	# X8 & X4 & !X2 & !X1
+	# !X8 & X4 & X2 & X1;
+
+PIN | X8 | 64 | 0 | N/A | 190 | 7 | 3 | 13 | 1 | 1 | 1 | 7 | 1 | 2 | 1 | 4 | 1 | 5 | 1 | 9
+PIN | X4 | 64 | 0 | N/A | 191 | 7 | 3 | 13 | 1 | 1 | 1 | 7 | 1 | 2 | 1 | 4 | 1 | 5 | 1 | 9
+PIN | X2 | 64 | 0 | N/A | 193 | 7 | 3 | 13 | 1 | 1 | 1 | 7 | 1 | 2 | 1 | 4 | 1 | 5 | 1 | 9
+PIN | X1 | 64 | 0 | N/A | 195 | 7 | 3 | 13 | 1 | 1 | 1 | 7 | 1 | 2 | 1 | 4 | 1 | 5 | 1 | 9
+PIN | A | 536871040 | 0 | N/A | 13
+PIN | B | 536871040 | 0 | N/A | 20
+PIN | F | 536871040 | 0 | N/A | 24
+PIN | C | 536871040 | 0 | N/A | 21
+PIN | D | 536871040 | 0 | N/A | 22
+PIN | E | 536871040 | 0 | N/A | 23
+PIN | G | 536871040 | 0 | N/A | 26

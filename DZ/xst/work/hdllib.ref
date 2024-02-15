@@ -1,0 +1,10 @@
+EN seg_a NULL C:/project/DZ/seg_A.vhf sub00/vhpl02
+EN seg_b NULL C:/project/DZ/seg_B.vhf sub00/vhpl04
+EN seg_c NULL C:/project/DZ/seg_C.vhf sub00/vhpl06
+EN seg_d NULL C:/project/DZ/seg_D.vhf sub00/vhpl08
+AR seg_d behavioral C:/project/DZ/seg_D.vhf sub00/vhpl09
+EN dz_main NULL C:/project/DZ/dz_main.vhf sub00/vhpl00
+AR seg_b behavioral C:/project/DZ/seg_B.vhf sub00/vhpl05
+AR dz_main behavioral C:/project/DZ/dz_main.vhf sub00/vhpl01
+AR seg_c behavioral C:/project/DZ/seg_C.vhf sub00/vhpl07
+AR seg_a behavioral C:/project/DZ/seg_A.vhf sub00/vhpl03

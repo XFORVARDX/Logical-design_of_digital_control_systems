@@ -1,0 +1,194 @@
+Release 6.3i - xst G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to __projnav
+CPU : 0.00 / 0.33 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.33 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: dz_main.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+  5) Advanced HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : dz_main.prj
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+Verilog Include Directory          : 
+
+---- Target Parameters
+Output File Name                   : dz_main
+Output Format                      : NGC
+Target Device                      : xc9500xl
+
+---- Source Options
+Top Module Name                    : dz_main
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+Equivalent register Removal        : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : _
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : dz_main.lso
+verilog2001                        : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Architecture behavioral of Entity dz_main is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : dz_main.ngr
+Top Level Output File Name         : dz_main
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : xc9500xl
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 8
+
+Cell Usage :
+# BELS                             : 6
+#      AND2                        : 1
+#      OR2                         : 2
+#      XOR2                        : 3
+# IO Buffers                       : 8
+#      IBUF                        : 4
+#      OBUF                        : 4
+# Others                           : 10
+#      AND2B1                      : 8
+#      NAND2B1                     : 1
+#      NOR2                        : 1
+=========================================================================
+CPU : 0.95 / 1.48 s | Elapsed : 1.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 49832 kilobytes
+
+

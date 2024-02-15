@@ -1,0 +1,5 @@
+-proj c:\project\dc_7_16
+-t Test.tbw
+-source dc_7_16.vhf
+-entity dc_7_16
+-ipcport 1047

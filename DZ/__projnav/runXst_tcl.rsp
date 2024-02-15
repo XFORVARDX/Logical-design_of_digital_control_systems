@@ -1,0 +1,1 @@
+set allSynthModules {seg_a.MOD seg_b.MOD seg_c.MOD seg_d.MOD dz_main.MOD}

@@ -1,0 +1,260 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\project\DZ
+T_opt
+Z1 VPmDjAh2eMYPI_fi>^ge::1
+Z2 04 7 14 work buttons testbench_arch 1
+Z3 =1-000c29f3d841-654a060f-2b8-e98
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5b;42
+Ebuttons
+Z7 w1699350022
+Z8 DPx21 C:\modeltech_6.5b\std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+Z9 DPx22 C:\modeltech_6.5b\ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+Z10 DPx22 C:\modeltech_6.5b\ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z11 DPx22 C:\modeltech_6.5b\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z12 8buttons.vhw
+Z13 Fbuttons.vhw
+l0
+L20
+Z14 VmFQjj8^`nZTBl1VYVh[8m0
+Z15 OE;C;6.5b;42
+Z16 o-93 -explicit
+Z17 tExplicit 1
+Z18 !s100 FV`HkXJNb=zCj9DhOd<``2
+Atestbench_arch
+Z19 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 3 or2 0 22 2laDOMIO_gU?<Z1WD:hT`2
+Z20 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 4 xor2 0 22 k57z_0iGWE87[RUC<U4=n3
+Z21 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 7 nand2b1 0 22 In_AkYFkgBjN?LL;Ehklz1
+Z22 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 4 nor2 0 22 ;SUA<M`>6nYY9ZDCMAk2U0
+Z23 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 6 and2b1 0 22 0Y2OzdmH6<]WE<Kmme5ho0
+Z24 DEx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 4 and2 0 22 Q5U227hIokh40fO;N@nM^3
+Z25 DEx18 C:\project\DZ\work 5 seg_d 0 22 ZX7@gPSEIiT_BEaY9?h`[3
+Z26 DEx18 C:\project\DZ\work 5 seg_c 0 22 b8hPB9[<A=BiR^WZU6?gO3
+Z27 DEx18 C:\project\DZ\work 5 seg_b 0 22 EV:MWhZC3B><Rike3`RzB2
+Z28 DEx18 C:\project\DZ\work 5 seg_a 0 22 Znzgf?Vm60BD?5zdQX]fk1
+Z29 DPx22 C:\modeltech_6.5b\ieee 12 vital_timing 0 22 OBWK>;kUYmkG<OChK2lhV1
+Z30 DPx36 C:\modeltech_6.5b\xilinx\vhdl\unisim 11 vcomponents 0 22 M^`noBbUfgI]6>HIM1EM31
+Z31 DEx18 C:\project\DZ\work 7 dz_main 0 22 ZzND@Q[QJEjUKMSBz2CZ;3
+R8
+R9
+R10
+R11
+Z32 DEx18 C:\project\DZ\work 7 buttons 0 22 mFQjj8^`nZTBl1VYVh[8m0
+31
+Z33 Mx6 22 C:\modeltech_6.5b\ieee 14 std_logic_1164
+Z34 Mx5 22 C:\modeltech_6.5b\ieee 11 numeric_std
+Z35 Mx4 22 C:\modeltech_6.5b\ieee 16 std_logic_textio
+Z36 Mx3 21 C:\modeltech_6.5b\std 6 textio
+Z37 Mx2 36 C:\modeltech_6.5b\xilinx\vhdl\unisim 11 vcomponents
+Z38 Mx1 22 C:\modeltech_6.5b\ieee 12 vital_timing
+l49
+L23
+Z39 V8zKi2Ofool7OCXz5;4cZ62
+Z40 !s100 YEU7Lad_TQYYFIMco3[5E2
+R15
+R16
+R17
+Edz_main
+Z41 w1699349795
+Z42 DPx4 ieee 12 vital_timing 0 22 OBWK>;kUYmkG<OChK2lhV1
+Z43 DPx6 unisim 11 vcomponents 0 22 M^`noBbUfgI]6>HIM1EM31
+Z44 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z45 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z46 8DZ_main.vhf
+Z47 FDZ_main.vhf
+l0
+L27
+Z48 VZzND@Q[QJEjUKMSBz2CZ;3
+R15
+31
+R16
+R17
+Z49 !s100 2_DMKIfCc8R:F:LLT:DRn0
+Abehavioral
+R42
+R43
+R44
+R45
+Z50 DEx4 work 7 dz_main 0 22 ZzND@Q[QJEjUKMSBz2CZ;3
+l70
+L38
+Z51 V<<EPS95>h5WJcYGUnRe0Y0
+R15
+31
+Z52 Mx4 4 ieee 14 std_logic_1164
+Z53 Mx3 4 ieee 11 numeric_std
+Z54 Mx2 6 unisim 11 vcomponents
+Z55 Mx1 4 ieee 12 vital_timing
+R16
+R17
+Z56 !s100 CIVY8U2bIm_3BVZ48iH2T1
+Cdz_main_cfg
+Z57 atestbench_arch
+Z58 ebuttons
+R43
+R42
+R50
+Z59 DAx4 work 7 buttons 14 testbench_arch 22 8zKi2Ofool7OCXz5;4cZ62
+Z60 DPx3 std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+Z61 DPx4 ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+R44
+R45
+Z62 DEx4 work 7 buttons 0 22 mFQjj8^`nZTBl1VYVh[8m0
+R7
+R12
+R13
+l0
+L259
+Z63 V0in5_QA1T^KI08lAXn1gl1
+R15
+31
+Z64 Mx6 4 ieee 14 std_logic_1164
+Z65 Mx5 4 ieee 11 numeric_std
+Z66 Mx4 4 ieee 16 std_logic_textio
+Z67 Mx3 3 std 6 textio
+Z68 Mx2 4 ieee 12 vital_timing
+Z69 Mx1 6 unisim 11 vcomponents
+R16
+R17
+Z70 !s100 Ub15YZMnGZ^LeYM_ZOl@P0
+Eseg_a
+Z71 w1699339382
+R42
+R43
+R44
+R45
+Z72 8seg_A.vhf
+Z73 Fseg_A.vhf
+l0
+L27
+Z74 VZnzgf?Vm60BD?5zdQX]fk1
+R15
+31
+R16
+R17
+Z75 !s100 Y:d?=1Ye;_LljUjJ:4Ma>2
+Abehavioral
+R42
+R43
+R44
+R45
+Z76 DEx4 work 5 seg_a 0 22 Znzgf?Vm60BD?5zdQX]fk1
+l53
+L35
+Z77 VSX]f6<Ez:>cX=iZ9iXJAl1
+R15
+31
+R52
+R53
+R54
+R55
+R16
+R17
+Z78 !s100 0Pc7GI]FeEl18>X0?K5[H2
+Eseg_b
+R71
+R42
+R43
+R44
+R45
+Z79 8seg_B.vhf
+Z80 Fseg_B.vhf
+l0
+L27
+Z81 VEV:MWhZC3B><Rike3`RzB2
+R15
+31
+R16
+R17
+Z82 !s100 OLK4[mJ15jU`Pk`nXO>WF1
+Abehavioral
+R42
+R43
+R44
+R45
+Z83 DEx4 work 5 seg_b 0 22 EV:MWhZC3B><Rike3`RzB2
+l60
+L35
+Z84 V;5QP716FCR_U7>]4NBCWW1
+R15
+31
+R52
+R53
+R54
+R55
+R16
+R17
+Z85 !s100 O`o=g9njO0gnZK=bnRS?62
+Eseg_c
+Z86 w1699350008
+R42
+R43
+R44
+R45
+Z87 8seg_C.vhf
+Z88 Fseg_C.vhf
+l0
+L27
+Z89 Vb8hPB9[<A=BiR^WZU6?gO3
+R15
+31
+R16
+R17
+Z90 !s100 0G=[>LKK3A5OdzNH00g6>3
+Abehavioral
+R42
+R43
+R44
+R45
+Z91 DEx4 work 5 seg_c 0 22 b8hPB9[<A=BiR^WZU6?gO3
+l63
+L35
+Z92 VOn3PO5C6[FZmO]E_`<S:]3
+R15
+31
+R52
+R53
+R54
+R55
+R16
+R17
+Z93 !s100 6LQnV0@WZ_Fdi7MHV<E0Q2
+Eseg_d
+Z94 w1699348527
+R42
+R43
+R44
+R45
+Z95 8seg_D.vhf
+Z96 Fseg_D.vhf
+l0
+L27
+Z97 VZX7@gPSEIiT_BEaY9?h`[3
+R15
+31
+R16
+R17
+Z98 !s100 IF:oF5oMURcjUQX=5k?Vh1
+Abehavioral
+R42
+R43
+R44
+R45
+Z99 DEx4 work 5 seg_d 0 22 ZX7@gPSEIiT_BEaY9?h`[3
+l53
+L34
+Z100 VhKYDc2[_bW`bH3=9E0DAY1
+R15
+31
+R52
+R53
+R54
+R55
+R16
+R17
+Z101 !s100 B;LM]cWKdM@m8:fR0CN321

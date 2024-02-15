@@ -1,0 +1,67 @@
+iMPACT Version: G.38
+iMPACT log file Started on 2023/10/10 13:44:17
+// *** BATCH CMD : setPreference -pref UserLevel:NOVICE
+// *** BATCH CMD : setPreference -pref MessageLevel:DETAILED
+// *** BATCH CMD : setPreference -pref ConcurrentMode:FALSE
+// *** BATCH CMD : setPreference -pref UseHighz:FALSE
+// *** BATCH CMD : setPreference -pref ConfigOnFailure:STOP
+// *** BATCH CMD : setPreference -pref StartupCLock:AUTO_CORRECTION
+// *** BATCH CMD : setPreference -pref AutoSignature:FALSE
+// *** BATCH CMD : setPreference -pref KeepSVF:FALSE
+// *** BATCH CMD : setPreference -pref svfUseTime:FALSE
+// *** BATCH CMD : setPreference -pref UserLevel:NOVICE
+// *** BATCH CMD : setPreference -pref MessageLevel:DETAILED
+// *** BATCH CMD : setPreference -pref ConcurrentMode:FALSE
+// *** BATCH CMD : setPreference -pref UseHighz:FALSE
+// *** BATCH CMD : setPreference -pref ConfigOnFailure:STOP
+// *** BATCH CMD : setPreference -pref StartupCLock:AUTO_CORRECTION
+// *** BATCH CMD : setPreference -pref AutoSignature:FALSE
+// *** BATCH CMD : setPreference -pref KeepSVF:FALSE
+// *** BATCH CMD : setPreference -pref svfUseTime:FALSE
+GUI --- Boundary-Scan Mode selected
+// *** BATCH CMD : setMode -bs
+GUI --- Auto connect to cable...
+// *** BATCH CMD : setCable -port auto
+AutoDetecting cable. Please wait.
+CB_PROGRESS_START - Starting Operation.
+Connecting to cable (USB Port).
+Cable connection failed.
+Connecting to cable (Parallel Port - LPT1).
+Checking cable driver.
+ Driver windrvr6.sys version = 10.2.1.0. LPT base address = 0378h.
+ ECP base address = 0778h.
+Cable connection established.
+CB_PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+// *** BATCH CMD : Identify
+PROGRESS_START - Starting Operation.
+Identifying chain contents ....'1': : Manufacturer's ID =Xilinx xc95288xl, Version : 5
+INFO:iMPACT:1777 - 
+Reading C:/Xilinx/xc9500xl/data/xc95288xl.bsd...
+Reading C:/Xilinx/xc9500xl/data/xc95288xl.bsd...
+INFO:iMPACT:501 - '1': Added Device xc95288xl successfully.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+done.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+// *** BATCH CMD : setAttribute -position 1 -attr configFileName -value "F:\dc_7_16\schema1.jed"
+'1': Loading file 'F:\dc_7_16\schema1.jed' ...
+done.
+INFO:iMPACT:501 - '1': Added Device xc95288xl successfully.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+// *** BATCH CMD : Program -p 1 -e 
+PROGRESS_START - Starting Operation.
+Validating chain...
+Boundary-scan chain validated successfully.
+'1': Putting device in ISP mode...done.
+'1': Erasing device...
+done.
+'1': Erasure completed successfully.
+'1': Programming device...done.
+'1': Programming completed successfully.
+PROGRESS_END - End Operation.
+Elapsed time =      4 sec.

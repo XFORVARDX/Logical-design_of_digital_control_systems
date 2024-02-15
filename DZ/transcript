@@ -1,0 +1,93 @@
+# Reading C:/modeltech_6.5b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5b May 21 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do buttons.fdo 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_a
+# -- Compiling architecture behavioral of seg_a
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_b
+# -- Compiling architecture behavioral of seg_b
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_c
+# -- Compiling architecture behavioral of seg_c
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_d
+# -- Compiling architecture behavioral of seg_d
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity dz_main
+# -- Compiling architecture behavioral of dz_main
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package textio
+# -- Loading package std_logic_textio
+# -- Compiling entity buttons
+# -- Compiling architecture testbench_arch of buttons
+# -- Compiling configuration dz_main_cfg
+# -- Loading entity buttons
+# -- Loading architecture testbench_arch of buttons
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Loading entity dz_main
+# vsim -lib work -t 1ps buttons 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-2009) At least one design unit was compiled with optimization level -O0 or -O1.
+# Use vdir -l command to find such design units.
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading std.textio(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.vital_timing(body)
+# Loading unisim.vcomponents
+# Loading work.buttons(testbench_arch)#1
+# Loading unisim.and2(and2_v)#1
+# Loading unisim.and2b1(and2b1_v)#1
+# Loading unisim.nor2(nor2_v)#1
+# Loading unisim.nand2b1(nand2b1_v)#1
+# Loading unisim.xor2(xor2_v)#1
+# Loading unisim.or2(or2_v)#1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 1850 ns  Iteration: 0  Process: /buttons/line__63 File: buttons.vhw
+# Break in Process line__63 at buttons.vhw line 245
+# Simulation Breakpoint: Break in Process line__63 at buttons.vhw line 245
+# MACRO ./buttons.fdo PAUSED at line 17

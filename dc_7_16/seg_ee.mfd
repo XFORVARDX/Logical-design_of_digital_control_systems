@@ -1,0 +1,16 @@
+MDF Database:  version 1.0
+MDF_INFO | seg_ee | XC95288XL-6-TQ144
+MACROCELL | 1 | 1 | E_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X1  | X8  | X4  | X2
+INPUTP | 4 | 21 | 23 | 237 | 225
+EQ | 3 | 
+   E = X1 & !X8
+	# X4 & !X2 & !X8
+	# !X4 & !X2 & X1;
+
+PIN | X4 | 64 | 0 | N/A | 237 | 1 | 1 | 1
+PIN | X2 | 64 | 0 | N/A | 225 | 1 | 1 | 1
+PIN | X1 | 64 | 0 | N/A | 21 | 1 | 1 | 1
+PIN | X8 | 64 | 0 | N/A | 23 | 1 | 1 | 1
+PIN | E | 536871040 | 0 | N/A | 20

@@ -1,0 +1,2392 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/project/dz/seg_A.vhf in Library work.
+Entity <seg_a> (Architecture <BEHAVIORAL>) compiled.
+Compiling vhdl file c:/project/dz/seg_B.vhf in Library work.
+Entity <seg_b> (Architecture <BEHAVIORAL>) compiled.
+Compiling vhdl file c:/project/dz/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <BEHAVIORAL>) compiled.
+Compiling vhdl file c:/project/dz/seg_D.vhf in Library work.
+Entity <seg_d> (Architecture <BEHAVIORAL>) compiled.
+Compiling vhdl file c:/project/dz/DZ_main.vhf in Library work.
+Architecture behavioral of Entity dz_main is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is c:/project/dz/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is c:/project/dz/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is c:/project/dz/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is c:/project/dz/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is c:/project/dz/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Translate".
+
+Extracting independent architecture files...
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "c:/project/dz/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/project/dz/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_a>.
+    Related source file is c:/project/dz/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <seg_a> ...
+Completed process "Synthesize".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Translate".
+
+Extracting independent architecture files...
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl seg_a.ngc seg_a.ngd 
+
+Reading NGO file "c:/project/dz/seg_a.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "seg_a.ngd" ...
+
+Writing NGDBUILD log file "seg_a.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 1 equations into 16 function blocks.....
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design seg_a has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/project/dz/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_b>.
+    Related source file is c:/project/dz/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <seg_b> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Extracting independent architecture files...
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl seg_b.ngc seg_b.ngd 
+
+Reading NGO file "c:/project/dz/seg_b.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "seg_b.ngd" ...
+
+Writing NGDBUILD log file "seg_b.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 1 equations into 16 function blocks.....
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design seg_b has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/project/dz/seg_C.vhf in Library work.
+Architecture behavioral of Entity seg_c is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_c>.
+    Related source file is c:/project/dz/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <seg_c> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Extracting independent architecture files...
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl seg_c.ngc seg_c.ngd 
+
+Reading NGO file "c:/project/dz/seg_c.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "seg_c.ngd" ...
+
+Writing NGDBUILD log file "seg_c.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 1 equations into 16 function blocks.....
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design seg_c has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/project/dz/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is c:/project/dz/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Extracting independent architecture files...
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl seg_d.ngc seg_d.ngd 
+
+Reading NGO file "c:/project/dz/seg_d.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "seg_d.ngd" ...
+
+Writing NGDBUILD log file "seg_d.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 1 equations into 16 function blocks.....
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design seg_d has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Generate Post-Fit Simulation Model".
+
+Release 6.3i - CPLD Timing Simulation Interface G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Creating NGA for simulation.
+Speed File: Version 3.0
+Completed process "Generate Post-Fit Simulation Model".
+
+
+Release 6.3i - netgen G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Reading design dz_main.nga ...
+  Flattening design ...
+  Flattening design completed.
+  Specializing design ...
+  Specializing design completed.
+  Preping physical only global signals ...
+  Preping design's networks ...
+  Preping design's macros ...
+Writing VHDL netlist dz_main_timesim.vhd ...
+Writing VHDL SDF file dz_main_timesim.sdf ...
+Total memory usage is 34352 kilobytes
+
+Created netgen log file 'dz_main_timesim.nlf'.
+Completed process "Generate Post-Fit Simulation Model".
+
+
+Compiling vhdl file c:/project/dz/dz_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+ERROR:DesignEntry:2 - Net "D" needs to be connected to pins or IO Ports.
+Error: 
+Process "View VHDL Functional Model" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Architecture behavioral of Entity seg_c is up to date.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Entity <seg_d> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/project/DZ/dz_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/project/DZ/dz_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Architecture behavioral of Entity dz_main is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/project/DZ/dz_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Architecture behavioral of Entity dz_main is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/project/DZ/dz_main.vhf in Library work.
+Entity <dz_main> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "View VHDL Functional Model".
+
+Release 6.3i - sch2vhdl G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+DRC Check completed: No Error found.
+Vhdl netlist file generated.
+Completed process "View VHDL Functional Model".
+
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/DZ/seg_A.vhf in Library work.
+Architecture behavioral of Entity seg_a is up to date.
+Compiling vhdl file C:/project/DZ/seg_B.vhf in Library work.
+Architecture behavioral of Entity seg_b is up to date.
+Compiling vhdl file C:/project/DZ/seg_C.vhf in Library work.
+Entity <seg_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/DZ/seg_D.vhf in Library work.
+Architecture behavioral of Entity seg_d is up to date.
+Compiling vhdl file C:/project/DZ/DZ_main.vhf in Library work.
+Architecture behavioral of Entity dz_main is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dz_main> (Architecture <behavioral>).
+Entity <dz_main> analyzed. Unit <dz_main> generated.
+
+Analyzing Entity <seg_a> (Architecture <behavioral>).
+Entity <seg_a> analyzed. Unit <seg_a> generated.
+
+Analyzing Entity <seg_b> (Architecture <behavioral>).
+Entity <seg_b> analyzed. Unit <seg_b> generated.
+
+Analyzing Entity <seg_c> (Architecture <behavioral>).
+Entity <seg_c> analyzed. Unit <seg_c> generated.
+
+Analyzing Entity <seg_d> (Architecture <behavioral>).
+Entity <seg_d> analyzed. Unit <seg_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_d>.
+    Related source file is C:/project/DZ/seg_D.vhf.
+Unit <seg_d> synthesized.
+
+
+Synthesizing Unit <seg_c>.
+    Related source file is C:/project/DZ/seg_C.vhf.
+Unit <seg_c> synthesized.
+
+
+Synthesizing Unit <seg_b>.
+    Related source file is C:/project/DZ/seg_B.vhf.
+Unit <seg_b> synthesized.
+
+
+Synthesizing Unit <seg_a>.
+    Related source file is C:/project/DZ/seg_A.vhf.
+Unit <seg_a> synthesized.
+
+
+Synthesizing Unit <dz_main>.
+    Related source file is C:/project/DZ/DZ_main.vhf.
+Unit <dz_main> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dz_main> ...
+
+Optimizing unit <seg_a> ...
+
+Optimizing unit <seg_b> ...
+
+Optimizing unit <seg_c> ...
+
+Optimizing unit <seg_d> ...
+Completed process "Synthesize".
+
+
+
+Started process "Translate".
+
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...
+
+NGDBUILD done.
+Completed process "Translate".
+
+
+
+Started process "Fit".
+
+Release 6.3i - CPLD Optimizer/Partitioner G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Considering device XC95288XL-6-TQ144.
+Flattening design..
+Timing optimization
+Timing driven global resource optimization
+General global resource optimization........
+Re-checking device resources ...
+Mapping a total of 4 equations into 16 function blocks..............
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+
+
+Design dz_main has been optimized and fit into device XC95288XL-6-TQ144.
+Completed process "Fit".
+
+
+
+Started process "Generate Programming File".
+
+Release 6.3i - Programming File Generator G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+Completed process "Generate Programming File".
+
+
+
+Started process "Generate HTML report".
+
+Release 6.3i - CPLD HTML Report Processor G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+java.lang.RuntimeException: Attempting to format number '0.0' using pattern ''.
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1063)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.runTimeError(BasisLibrary.java:1071)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.formatNumber(BasisLibrary.java:922)
+	at org.apache.xalan.xsltc.runtime.BasisLibrary.realToString(BasisLibrary.java:870)
+	at summary.PrintSummaryResources()
+	at summary.PrintSummary()
+	at summary.applyTemplates()
+	at summary.transform()
+	at org.apache.xalan.xsltc.runtime.AbstractTranslet.transform(AbstractTranslet.java:540)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.doTransform(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.ProcessXML(Unknown Source)
+	at com.xilinx.chipviewer.inout.xslt.XSLTProcess.main(Unknown Source)
+ERROR:Cpld:1137 - Child process failed -mode 1
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+

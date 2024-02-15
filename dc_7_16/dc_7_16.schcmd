@@ -1,0 +1,8 @@
+select figure at 2556 2182 15 -wires -sn=1
+select figure at 2556 2182 15 -wires -extend -extend -sn=1
+select figure at 2966 2273 15 -wires -sn=1
+select figure at 2966 2273 15 -wires -extend -extend -sn=1
+select figure at 2526 2252 4 -wires -sn=1
+select figure at 2526 2252 4 -wires -extend -extend -sn=1
+select figure at 2836 2084 4 -wires -sn=1
+select figure at 2836 2084 4 -wires -extend -extend -sn=1

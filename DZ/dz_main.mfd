@@ -1,0 +1,44 @@
+MDF Database:  version 1.0
+MDF_INFO | dz_main | XC95288XL-6-TQ144
+MACROCELL | 1 | 1 | C_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X2  | X8  | X4  | X1
+INPUTP | 4 | 4 | 73 | 237 | 171
+EQ | 4 | 
+   !C = X1 & !X2 & X4
+	# !X1 & !X2 & !X4
+	# !X2 & X8 & X4
+	# X1 & X2 & X8 & !X4;
+
+MACROCELL | 8 | 1 | A_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X1  | X2  | X8  | X4
+INPUTP | 4 | 171 | 4 | 73 | 237
+EQ | 2 | 
+   A = !X1 & !X2 & X8
+	# !X2 & X8 & !X4;
+
+MACROCELL | 9 | 1 | B_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 4 | X1  | X8  | X2  | X4
+INPUTP | 4 | 171 | 73 | 4 | 237
+EQ | 2 | 
+   !B = X1 & X8
+	# !X2 & X8 & X4;
+
+MACROCELL | 14 | 1 | D_OBUF
+ATTRIBUTES | 264962 | 0
+INPUTS | 3 | X1  | X2  | X4
+INPUTP | 3 | 171 | 4 | 237
+EQ | 2 | 
+   D = X1 & !X2
+	# !X1 & X2 & !X4;
+
+PIN | X1 | 64 | 0 | N/A | 171 | 4 | 1 | 1 | 8 | 1 | 9 | 1 | 14 | 1
+PIN | X2 | 64 | 0 | N/A | 4 | 4 | 1 | 1 | 8 | 1 | 9 | 1 | 14 | 1
+PIN | X8 | 64 | 0 | N/A | 73 | 3 | 1 | 1 | 8 | 1 | 9 | 1
+PIN | X4 | 64 | 0 | N/A | 237 | 4 | 1 | 1 | 8 | 1 | 9 | 1 | 14 | 1
+PIN | C | 536871040 | 0 | N/A | 20
+PIN | A | 536871040 | 0 | N/A | 97
+PIN | B | 536871040 | 0 | N/A | 216
+PIN | D | 536871040 | 0 | N/A | 151

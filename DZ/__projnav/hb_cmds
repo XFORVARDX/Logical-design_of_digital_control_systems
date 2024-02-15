@@ -1,0 +1,5 @@
+-proj c:\project\dz
+-t buttons.tbw
+-source dz_main.vhf
+-entity dz_main
+-ipcport 1402

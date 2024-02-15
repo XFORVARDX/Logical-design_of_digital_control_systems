@@ -1,0 +1,68 @@
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -i -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl schema1verb.ngc schema1verb.ngd
+sch2vhdl -family xc9500xl -flat -suppress -w schema1verB.sch schema1verb.vhf
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+xst -intstyle ise -ifn __projnav/schema1verb.xst -ofn schema1verb.syr
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"
+ngdbuild -dd _ngo -uc button.ucf -p xc9500xl schema1verb.ngc schema1verb.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1verb.ngd
+hprep6 -s IEEE1149 -n schema1verb -i schema1verb
+XSLTProcess "schema1verb_build.xml"

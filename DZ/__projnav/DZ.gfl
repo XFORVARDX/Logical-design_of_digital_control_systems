@@ -1,0 +1,834 @@
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_B_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_B_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/seg_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# ProjNav -> New Source -> TBW
+c:\project\dz\__projnav\hb_cmds
+# ProjNav -> New Source -> TBW
+c:\project\dz\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : View VHDL Functional Model
+seg_a.vhf
+seg_a.cmd_log
+# Schematic : View VHDL Functional Model
+seg_b.vhf
+seg_b.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# Schematic : View VHDL Functional Model
+seg_d.vhf
+seg_d.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+dz_main.ngc
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# XST (Creating Lso File) : 
+seg_a.lso
+# xst flow : RunXST
+seg_a.syr
+seg_a.prj
+seg_a.sprj
+seg_a.ana
+seg_a.stx
+seg_a.cmd_log
+seg_a.ngc
+seg_a.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/seg_a_edfTOngd_tcl.rsp
+seg_a.ngd
+seg_a.bld
+seg_a_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+seg_a_html
+seg_a.cmd_log
+# Implmentation : Fit
+__projnav/seg_a_ngdTOvm6_tcl.rsp
+seg_a.vm6
+seg_a.cxt
+seg_a.blx
+seg_a.mfd
+seg_a.rpt
+seg_a.log
+seg_a.pnx
+seg_a.gyd
+seg_a.xml
+seg_a_build.xml
+DZ.ptf
+seg_a.bl
+errors.xml
+tmperr.err
+seg_a.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/seg_a_vm6TOjed_tcl.rsp
+seg_a.jed
+seg_a.isc
+seg_a.cmd_log
+# Implmentation : FitRpt
+seg_a_html
+seg_a._hrpt
+seg_a.cmd_log
+# Implmentation : FitRpt
+seg_a.imp
+# XST (Creating Lso File) : 
+seg_b.lso
+# xst flow : RunXST
+seg_b.syr
+seg_b.prj
+seg_b.sprj
+seg_b.ana
+seg_b.stx
+seg_b.cmd_log
+seg_b.ngc
+seg_b.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/seg_b_edfTOngd_tcl.rsp
+seg_b.ngd
+seg_b.bld
+seg_b_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+seg_b_html
+seg_b.cmd_log
+# Implmentation : Fit
+__projnav/seg_b_ngdTOvm6_tcl.rsp
+seg_b.vm6
+seg_b.cxt
+seg_b.blx
+seg_b.mfd
+seg_b.rpt
+seg_b.log
+seg_b.pnx
+seg_b.gyd
+seg_b.xml
+seg_b_build.xml
+DZ.ptf
+seg_b.bl
+errors.xml
+tmperr.err
+seg_b.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/seg_b_vm6TOjed_tcl.rsp
+seg_b.jed
+seg_b.isc
+seg_b.cmd_log
+# Implmentation : FitRpt
+seg_b_html
+seg_b._hrpt
+seg_b.cmd_log
+# Implmentation : FitRpt
+seg_b.imp
+# XST (Creating Lso File) : 
+seg_c.lso
+# xst flow : RunXST
+seg_c.syr
+seg_c.prj
+seg_c.sprj
+seg_c.ana
+seg_c.stx
+seg_c.cmd_log
+seg_c.ngc
+seg_c.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/seg_c_edfTOngd_tcl.rsp
+seg_c.ngd
+seg_c.bld
+seg_c_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+seg_c_html
+seg_c.cmd_log
+# Implmentation : Fit
+__projnav/seg_c_ngdTOvm6_tcl.rsp
+seg_c.vm6
+seg_c.cxt
+seg_c.blx
+seg_c.mfd
+seg_c.rpt
+seg_c.log
+seg_c.pnx
+seg_c.gyd
+seg_c.xml
+seg_c_build.xml
+DZ.ptf
+seg_c.bl
+errors.xml
+tmperr.err
+seg_c.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/seg_c_vm6TOjed_tcl.rsp
+seg_c.jed
+seg_c.isc
+seg_c.cmd_log
+# Implmentation : FitRpt
+seg_c_html
+seg_c._hrpt
+seg_c.cmd_log
+# Implmentation : FitRpt
+seg_c.imp
+# XST (Creating Lso File) : 
+seg_d.lso
+# xst flow : RunXST
+seg_d.syr
+seg_d.prj
+seg_d.sprj
+seg_d.ana
+seg_d.stx
+seg_d.cmd_log
+seg_d.ngc
+seg_d.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/seg_d_edfTOngd_tcl.rsp
+seg_d.ngd
+seg_d.bld
+seg_d_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+seg_d_html
+seg_d.cmd_log
+# Implmentation : Fit
+__projnav/seg_d_ngdTOvm6_tcl.rsp
+seg_d.vm6
+seg_d.cxt
+seg_d.blx
+seg_d.mfd
+seg_d.rpt
+seg_d.log
+seg_d.pnx
+seg_d.gyd
+seg_d.xml
+seg_d_build.xml
+DZ.ptf
+seg_d.bl
+errors.xml
+tmperr.err
+seg_d.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/seg_d_vm6TOjed_tcl.rsp
+seg_d.jed
+seg_d.isc
+seg_d.cmd_log
+# Implmentation : FitRpt
+seg_d_html
+seg_d._hrpt
+seg_d.cmd_log
+# Implmentation : FitRpt
+seg_d.imp
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Generate Post-Fit Simulation Model
+__projnav/dz_main_vm6TOnga_tcl.rsp
+dz_main.nga
+dz_main.cmd_log
+# Implmentation : Generate Post-Par Simulation Model (VHDL flow)
+dz_main_timesim.vhd
+dz_main_timesim.vhd
+ngaTOdz_main.vhdsim_par
+dz_main.vhdsim_par
+dz_main_timesim.nlf
+dz_main.cmd_log
+# Simulation :Simulate Post-Place & Route VHDL Model
+buttons.timesim_vhw
+_remap.tmp
+__projnav/ptb.rsp
+# ModelSim : Simulate Post-Place & Route VHDL Model
+buttons.tdo
+# ModelSim : Simulate Post-Place & Route VHDL Model
+vsim.wlf
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_D_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# Schematic : View VHDL Functional Model
+seg_d.vhf
+seg_d.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+dz_main.vhf
+dz_main.cmd_log
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/seg_C_jhdparse_tcl.rsp
+# Schematic : View VHDL Functional Model
+seg_c.vhf
+seg_c.cmd_log
+# XST (Creating Lso File) : 
+dz_main.lso
+# xst flow : RunXST
+dz_main.syr
+dz_main.prj
+dz_main.sprj
+dz_main.ana
+dz_main.stx
+dz_main.cmd_log
+seg_a.ngc
+seg_b.ngc
+seg_c.ngc
+seg_d.ngc
+dz_main.ngc
+seg_a.ngr
+seg_b.ngr
+seg_c.ngr
+seg_d.ngr
+dz_main.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dz_main_edfTOngd_tcl.rsp
+dz_main.ngd
+dz_main.bld
+dz_main_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dz_main_html
+dz_main.cmd_log
+# Implmentation : Fit
+__projnav/dz_main_ngdTOvm6_tcl.rsp
+dz_main.vm6
+dz_main.cxt
+dz_main.blx
+dz_main.mfd
+dz_main.rpt
+dz_main.log
+dz_main.pnx
+dz_main.gyd
+dz_main.xml
+dz_main_build.xml
+DZ.ptf
+dz_main.bl
+errors.xml
+tmperr.err
+dz_main.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dz_main_vm6TOjed_tcl.rsp
+dz_main.jed
+dz_main.isc
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main_html
+dz_main._hrpt
+dz_main.cmd_log
+# Implmentation : FitRpt
+dz_main.imp
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+buttons.vhw
+buttons.ano
+buttons.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+buttons.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Schematic : PDCL (jhdparse)
+__projnav/DZ_main_jhdparse_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Bencher Waveform : PDCL (jhdparse)

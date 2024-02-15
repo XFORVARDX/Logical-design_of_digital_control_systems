@@ -1,0 +1,121 @@
+V1 114
+FL c:/dc_7_16/Seg_cc.vhf 2023/10/09.21:30:09
+FL F:/dc_7_16/Seg_ee.vhf 2023/10/10.12:54:56
+FL C:/project/dc_7_16/Seg_gg.vhf 2023/10/17.09:01:28
+EN work/SEG_GG          FL C:/project/dc_7_16/Seg_gg.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_GG/BEHAVIORAL FL C:/project/dc_7_16/Seg_gg.vhf EN work/SEG_GG CP OR3 \
+      CP AND3B3         CP AND4B1         CP AND4B2
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_ff.vhf 2023/10/15.19:26:50
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_aa.vhf 2023/10/17.08:01:25
+FL F:/dc_7_16/schema1.vhf 2023/10/10.13:15:48
+FL c:/dc_7_16/Seg_aa.vhf 2023/10/09.21:27:27
+FL F:/dc_7_16/Seg_cc.vhf 2023/10/10.12:54:54
+FL C:/project/dc_7_16/Seg_ee.vhf 2023/10/17.09:01:27
+EN work/SEG_EE          FL C:/project/dc_7_16/Seg_ee.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_EE/BEHAVIORAL FL C:/project/dc_7_16/Seg_ee.vhf EN work/SEG_EE CP OR3 \
+      CP AND2B1         CP AND3B2
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_dd.vhf 2023/10/15.19:26:49
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_ff.vhf 2023/10/17.08:01:28
+FL C:/Users/FORVARD/Desktop/dc_7_16/DC_7_16.vhf 2023/10/17.08:01:25
+FL c:/dc_7_16/Seg_ff.vhf 2023/10/09.21:46:19
+FL c:/users/forvard/desktop/dc_7_16/schema1.vhf 2023/10/10.13:15:48
+EN work/SCHEMA1         FL c:/users/forvard/desktop/dc_7_16/schema1.vhf \
+      PB ieee/STD_LOGIC_1164 PH ieee/NUMERIC_STD
+AR work/SCHEMA1/BEHAVIORAL FL c:/users/forvard/desktop/dc_7_16/schema1.vhf \
+      EN work/SCHEMA1   CP DC_7_16
+FL C:/project/dc_7_16/DC_7_16.vhf 2023/10/22.15:44:52
+EN work/DC_7_16         FL C:/project/dc_7_16/DC_7_16.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/DC_7_16/BEHAVIORAL FL C:/project/dc_7_16/DC_7_16.vhf EN work/DC_7_16 \
+      CP SEG_AA         CP SEG_BB         CP SEG_CC         CP SEG_DD         CP SEG_EE \
+      CP SEG_FF         CP SEG_GG
+FL F:/dc_7_16/Seg_aa.vhf 2023/10/10.13:42:10
+FL C:/project/dc_7_16/Seg_cc.vhf 2023/10/17.09:01:26
+EN work/SEG_CC          FL C:/project/dc_7_16/Seg_cc.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_CC/BEHAVIORAL FL C:/project/dc_7_16/Seg_cc.vhf EN work/SEG_CC CP OR3 \
+      CP AND3           CP AND4B2         CP AND4B3
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_bb.vhf 2023/10/15.19:26:48
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_dd.vhf 2023/10/17.08:01:27
+FL C:/project/dc_7_16/shem1.vhf 2023/10/17.09:14:41
+EN work/SHEM1           FL C:/project/dc_7_16/shem1.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SHEM1/BEHAVIORAL FL C:/project/dc_7_16/shem1.vhf EN work/SHEM1 CP DC_7_16
+FL C:/Users/FORVARD/Desktop/dc_7_16/schema1.vhf 2023/10/10.13:15:48
+FL C:/project/dc_7_16/block_C.vhf 2023/11/07.13:48:23
+EN work/BLOCK_C         FL C:/project/dc_7_16/block_C.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/BLOCK_C/BEHAVIORAL FL C:/project/dc_7_16/block_C.vhf EN work/BLOCK_C \
+      CP AND2B1         CP XOR2           CP OR2
+FL c:/project/dc_7_16/dc_7_16.vhf 2023/10/10.10:50:04
+FL c:/dc_7_16/Seg_dd.vhf 2023/10/09.21:31:14
+FL C:/Users/Федя/Desktop/dc_7_16/DC_7_16.vhf 2023/10/15.19:26:46
+FL C:/project/dc_7_16/Seg_aa.vhf 2023/10/10.10:56:15
+EN work/SEG_AA          FL C:/project/dc_7_16/Seg_aa.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_AA/BEHAVIORAL FL C:/project/dc_7_16/Seg_aa.vhf EN work/SEG_AA CP OR4 \
+      CP AND4B3         CP AND4B1
+FL C:/Users/FORVARD/Desktop/dc_7_16/shem1.vhf 2023/10/17.08:14:41
+FL F:/dc_7_16/Seg_ff.vhf 2023/10/09.21:46:20
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_gg.vhf 2023/10/15.19:26:50
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_bb.vhf 2023/10/17.08:01:26
+FL C:/project/dc_7_16/dc_7_16.vhf 2023/10/22.15:44:52
+FL c:/dc_7_16/Seg_bb.vhf 2023/10/09.21:28:25
+FL c:/dc_7_16/DC_7_16.vhf 2023/10/09.21:46:31
+FL F:/dc_7_16/Seg_dd.vhf 2023/10/10.12:54:56
+FL C:/Users/Федя/Desktop/dc_7_16/schema1.vhf 2023/10/10.13:15:48
+FL C:/project/dc_7_16/Seg_ff.vhf 2023/10/21.13:32:54
+EN work/SEG_FF          FL C:/project/dc_7_16/Seg_ff.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_FF/BEHAVIORAL FL C:/project/dc_7_16/Seg_ff.vhf EN work/SEG_FF \
+      CP AND4B3         CP AND4B1         CP AND3B2         CP OR4
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_ee.vhf 2023/10/15.19:26:49
+FL C:/project/dc_7_16/block_D.vhf 2023/11/07.13:13:45
+EN work/BLOCK_D         FL C:/project/dc_7_16/block_D.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/BLOCK_D/BEHAVIORAL FL C:/project/dc_7_16/block_D.vhf EN work/BLOCK_D \
+      CP XOR2           CP AND2B1
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_gg.vhf 2023/10/17.08:01:28
+FL c:/dc_7_16/seg_a.vhf 2023/10/09.21:14:38
+EN work/SEG_A           FL c:/dc_7_16/seg_a.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_A/BEHAVIORAL FL c:/dc_7_16/seg_a.vhf EN work/SEG_A CP OR4         CP AND4B3 \
+      CP AND4B2         CP AND4B1
+FL c:/dc_7_16/Seg_gg.vhf 2023/10/09.21:46:24
+FL c:/dc_7_16/schema1.vhf 2023/10/09.21:14:37
+FL F:/dc_7_16/Seg_bb.vhf 2023/10/10.12:54:54
+FL C:/project/dc_7_16/Seg_dd.vhf 2023/10/22.15:17:16
+EN work/SEG_DD          FL C:/project/dc_7_16/Seg_dd.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_DD/BEHAVIORAL FL C:/project/dc_7_16/Seg_dd.vhf EN work/SEG_DD CP OR4 \
+      CP AND4B3         CP AND4B2         CP AND3
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_cc.vhf 2023/10/15.19:26:48
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_ee.vhf 2023/10/17.08:01:27
+FL C:/project/dc_7_16/block_b.vhf 2023/11/07.13:13:44
+EN work/BLOCK_B         FL C:/project/dc_7_16/block_b.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/BLOCK_B/BEHAVIORAL FL C:/project/dc_7_16/block_b.vhf EN work/BLOCK_B \
+      CP AND2B1         CP NOR2           CP NAND2B1
+FL C:/project/dc_7_16/schema1verB.vhf 2023/11/07.13:13:43
+EN work/SCHEMA1VERB     FL C:/project/dc_7_16/schema1verB.vhf \
+      PB ieee/STD_LOGIC_1164 PH ieee/NUMERIC_STD
+AR work/SCHEMA1VERB/BEHAVIORAL FL C:/project/dc_7_16/schema1verB.vhf \
+      EN work/SCHEMA1VERB CP DC_7_16      CP BLOCK_A        CP BLOCK_B        CP BLOCK_C \
+      CP BLOCK_D
+FL c:/dc_7_16/Seg_ee.vhf 2023/10/09.21:46:31
+FL C:/project/dc_7_16/Seg_bb.vhf 2023/10/22.15:44:52
+EN work/SEG_BB          FL C:/project/dc_7_16/Seg_bb.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_BB/BEHAVIORAL FL C:/project/dc_7_16/Seg_bb.vhf EN work/SEG_BB \
+      CP AND4B2         CP AND3B1         CP AND3           CP OR4
+FL C:/Users/Федя/Desktop/dc_7_16/Seg_aa.vhf 2023/10/15.19:26:47
+FL F:/dc_7_16/Seg_gg.vhf 2023/10/10.12:54:56
+FL F:/dc_7_16/DC_7_16.vhf 2023/10/10.13:15:48
+FL C:/Users/FORVARD/Desktop/dc_7_16/Seg_cc.vhf 2023/10/17.08:01:26
+FL C:/project/dc_7_16/block_A.vhf 2023/11/07.13:13:44
+EN work/BLOCK_A         FL C:/project/dc_7_16/block_A.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/BLOCK_A/BEHAVIORAL FL C:/project/dc_7_16/block_A.vhf EN work/BLOCK_A \
+      CP AND2           CP AND2B1

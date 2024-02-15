@@ -1,0 +1,72 @@
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+seg_a.prj
+# xst flow : RunXST
+seg_a.prj
+__projnav/seg_a.xst
+./xst
+# XST flow : Creating project file
+seg_b.prj
+# xst flow : RunXST
+seg_b.prj
+__projnav/seg_b.xst
+./xst
+# XST flow : Creating project file
+seg_c.prj
+# xst flow : RunXST
+seg_c.prj
+__projnav/seg_c.xst
+./xst
+# XST flow : Creating project file
+seg_d.prj
+# xst flow : RunXST
+seg_d.prj
+__projnav/seg_d.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst
+# XST flow : Creating project file
+dz_main.prj
+# xst flow : RunXST
+dz_main.prj
+__projnav/dz_main.xst
+./xst

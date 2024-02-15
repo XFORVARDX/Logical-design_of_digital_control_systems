@@ -1,0 +1,299 @@
+Release 6.3i - xst G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to __projnav
+CPU : 0.00 / 0.33 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.33 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Reading design: schema1verb.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+  5) Advanced HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : schema1verb.prj
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+Verilog Include Directory          : 
+
+---- Target Parameters
+Output File Name                   : schema1verb
+Output Format                      : NGC
+Target Device                      : xc9500xl
+
+---- Source Options
+Top Module Name                    : schema1verb
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+Equivalent register Removal        : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : _
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : schema1verb.lso
+verilog2001                        : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/dc_7_16/Seg_aa.vhf in Library work.
+Architecture behavioral of Entity seg_aa is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_bb.vhf in Library work.
+Architecture behavioral of Entity seg_bb is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_cc.vhf in Library work.
+Architecture behavioral of Entity seg_cc is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_dd.vhf in Library work.
+Architecture behavioral of Entity seg_dd is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_ee.vhf in Library work.
+Architecture behavioral of Entity seg_ee is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_ff.vhf in Library work.
+Architecture behavioral of Entity seg_ff is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_gg.vhf in Library work.
+Architecture behavioral of Entity seg_gg is up to date.
+Compiling vhdl file C:/project/dc_7_16/DC_7_16.vhf in Library work.
+Architecture behavioral of Entity dc_7_16 is up to date.
+Compiling vhdl file C:/project/dc_7_16/block_A.vhf in Library work.
+Architecture behavioral of Entity block_a is up to date.
+Compiling vhdl file C:/project/dc_7_16/block_b.vhf in Library work.
+Architecture behavioral of Entity block_b is up to date.
+Compiling vhdl file C:/project/dc_7_16/block_C.vhf in Library work.
+Entity <block_c> (Architecture <behavioral>) compiled.
+Compiling vhdl file C:/project/dc_7_16/block_D.vhf in Library work.
+Architecture behavioral of Entity block_d is up to date.
+Compiling vhdl file C:/project/dc_7_16/schema1verB.vhf in Library work.
+Architecture behavioral of Entity schema1verb is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <schema1verb> (Architecture <behavioral>).
+Entity <schema1verb> analyzed. Unit <schema1verb> generated.
+
+Analyzing Entity <dc_7_16> (Architecture <behavioral>).
+Entity <dc_7_16> analyzed. Unit <dc_7_16> generated.
+
+Analyzing Entity <seg_aa> (Architecture <behavioral>).
+Entity <seg_aa> analyzed. Unit <seg_aa> generated.
+
+Analyzing Entity <seg_bb> (Architecture <behavioral>).
+Entity <seg_bb> analyzed. Unit <seg_bb> generated.
+
+Analyzing Entity <seg_cc> (Architecture <behavioral>).
+Entity <seg_cc> analyzed. Unit <seg_cc> generated.
+
+Analyzing Entity <seg_dd> (Architecture <behavioral>).
+Entity <seg_dd> analyzed. Unit <seg_dd> generated.
+
+Analyzing Entity <seg_ee> (Architecture <behavioral>).
+Entity <seg_ee> analyzed. Unit <seg_ee> generated.
+
+Analyzing Entity <seg_ff> (Architecture <behavioral>).
+Entity <seg_ff> analyzed. Unit <seg_ff> generated.
+
+Analyzing Entity <seg_gg> (Architecture <behavioral>).
+Entity <seg_gg> analyzed. Unit <seg_gg> generated.
+
+Analyzing Entity <block_a> (Architecture <behavioral>).
+Entity <block_a> analyzed. Unit <block_a> generated.
+
+Analyzing Entity <block_b> (Architecture <behavioral>).
+Entity <block_b> analyzed. Unit <block_b> generated.
+
+Analyzing Entity <block_c> (Architecture <behavioral>).
+Entity <block_c> analyzed. Unit <block_c> generated.
+
+Analyzing Entity <block_d> (Architecture <behavioral>).
+Entity <block_d> analyzed. Unit <block_d> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_gg>.
+    Related source file is C:/project/dc_7_16/Seg_gg.vhf.
+Unit <seg_gg> synthesized.
+
+
+Synthesizing Unit <seg_ff>.
+    Related source file is C:/project/dc_7_16/Seg_ff.vhf.
+Unit <seg_ff> synthesized.
+
+
+Synthesizing Unit <seg_ee>.
+    Related source file is C:/project/dc_7_16/Seg_ee.vhf.
+Unit <seg_ee> synthesized.
+
+
+Synthesizing Unit <seg_dd>.
+    Related source file is C:/project/dc_7_16/Seg_dd.vhf.
+Unit <seg_dd> synthesized.
+
+
+Synthesizing Unit <seg_cc>.
+    Related source file is C:/project/dc_7_16/Seg_cc.vhf.
+Unit <seg_cc> synthesized.
+
+
+Synthesizing Unit <seg_bb>.
+    Related source file is C:/project/dc_7_16/Seg_bb.vhf.
+Unit <seg_bb> synthesized.
+
+
+Synthesizing Unit <seg_aa>.
+    Related source file is C:/project/dc_7_16/Seg_aa.vhf.
+Unit <seg_aa> synthesized.
+
+
+Synthesizing Unit <block_d>.
+    Related source file is C:/project/dc_7_16/block_D.vhf.
+Unit <block_d> synthesized.
+
+
+Synthesizing Unit <block_c>.
+    Related source file is C:/project/dc_7_16/block_C.vhf.
+Unit <block_c> synthesized.
+
+
+Synthesizing Unit <block_b>.
+    Related source file is C:/project/dc_7_16/block_b.vhf.
+Unit <block_b> synthesized.
+
+
+Synthesizing Unit <block_a>.
+    Related source file is C:/project/dc_7_16/block_A.vhf.
+Unit <block_a> synthesized.
+
+
+Synthesizing Unit <dc_7_16>.
+    Related source file is C:/project/dc_7_16/DC_7_16.vhf.
+Unit <dc_7_16> synthesized.
+
+
+Synthesizing Unit <schema1verb>.
+    Related source file is C:/project/dc_7_16/schema1verB.vhf.
+Unit <schema1verb> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <schema1verb> ...
+
+Optimizing unit <block_a> ...
+
+Optimizing unit <block_b> ...
+
+Optimizing unit <block_c> ...
+
+Optimizing unit <block_d> ...
+
+Optimizing unit <seg_aa> ...
+
+Optimizing unit <seg_bb> ...
+
+Optimizing unit <seg_cc> ...
+
+Optimizing unit <seg_dd> ...
+
+Optimizing unit <seg_ee> ...
+
+Optimizing unit <seg_ff> ...
+
+Optimizing unit <seg_gg> ...
+
+Optimizing unit <dc_7_16> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : schema1verb.ngr
+Top Level Output File Name         : schema1verb
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : xc9500xl
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 11
+
+Cell Usage :
+# BELS                             : 16
+#      AND2                        : 1
+#      AND3                        : 3
+#      OR2                         : 2
+#      OR3                         : 3
+#      OR4                         : 4
+#      XOR2                        : 3
+# IO Buffers                       : 11
+#      IBUF                        : 4
+#      OBUF                        : 7
+# Others                           : 32
+#      AND2B1                      : 9
+#      AND3B1                      : 1
+#      AND3B2                      : 3
+#      AND3B3                      : 1
+#      AND4B1                      : 5
+#      AND4B2                      : 5
+#      AND4B3                      : 6
+#      NAND2B1                     : 1
+#      NOR2                        : 1
+=========================================================================
+CPU : 1.19 / 1.72 s | Elapsed : 1.00 / 2.00 s
+ 
+--> 
+
+Total memory usage is 51880 kilobytes
+
+

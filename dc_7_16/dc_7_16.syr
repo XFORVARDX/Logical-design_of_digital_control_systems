@@ -1,0 +1,234 @@
+Release 6.3i - xst G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to __projnav
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: dc_7_16.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+  5) Advanced HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : dc_7_16.prj
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+Verilog Include Directory          : 
+
+---- Target Parameters
+Output File Name                   : dc_7_16
+Output Format                      : NGC
+Target Device                      : xc9500xl
+
+---- Source Options
+Top Module Name                    : dc_7_16
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+Equivalent register Removal        : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : _
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : dc_7_16.lso
+verilog2001                        : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/project/dc_7_16/Seg_aa.vhf in Library work.
+Architecture behavioral of Entity seg_aa is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_bb.vhf in Library work.
+Architecture behavioral of Entity seg_bb is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_cc.vhf in Library work.
+Architecture behavioral of Entity seg_cc is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_dd.vhf in Library work.
+Architecture behavioral of Entity seg_dd is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_ee.vhf in Library work.
+Architecture behavioral of Entity seg_ee is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_ff.vhf in Library work.
+Architecture behavioral of Entity seg_ff is up to date.
+Compiling vhdl file C:/project/dc_7_16/Seg_gg.vhf in Library work.
+Architecture behavioral of Entity seg_gg is up to date.
+Compiling vhdl file C:/project/dc_7_16/DC_7_16.vhf in Library work.
+Architecture behavioral of Entity dc_7_16 is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <dc_7_16> (Architecture <behavioral>).
+Entity <dc_7_16> analyzed. Unit <dc_7_16> generated.
+
+Analyzing Entity <seg_aa> (Architecture <behavioral>).
+Entity <seg_aa> analyzed. Unit <seg_aa> generated.
+
+Analyzing Entity <seg_bb> (Architecture <behavioral>).
+Entity <seg_bb> analyzed. Unit <seg_bb> generated.
+
+Analyzing Entity <seg_cc> (Architecture <behavioral>).
+Entity <seg_cc> analyzed. Unit <seg_cc> generated.
+
+Analyzing Entity <seg_dd> (Architecture <behavioral>).
+Entity <seg_dd> analyzed. Unit <seg_dd> generated.
+
+Analyzing Entity <seg_ee> (Architecture <behavioral>).
+Entity <seg_ee> analyzed. Unit <seg_ee> generated.
+
+Analyzing Entity <seg_ff> (Architecture <behavioral>).
+Entity <seg_ff> analyzed. Unit <seg_ff> generated.
+
+Analyzing Entity <seg_gg> (Architecture <behavioral>).
+Entity <seg_gg> analyzed. Unit <seg_gg> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <seg_gg>.
+    Related source file is C:/project/dc_7_16/Seg_gg.vhf.
+Unit <seg_gg> synthesized.
+
+
+Synthesizing Unit <seg_ff>.
+    Related source file is C:/project/dc_7_16/Seg_ff.vhf.
+Unit <seg_ff> synthesized.
+
+
+Synthesizing Unit <seg_ee>.
+    Related source file is C:/project/dc_7_16/Seg_ee.vhf.
+Unit <seg_ee> synthesized.
+
+
+Synthesizing Unit <seg_dd>.
+    Related source file is C:/project/dc_7_16/Seg_dd.vhf.
+Unit <seg_dd> synthesized.
+
+
+Synthesizing Unit <seg_cc>.
+    Related source file is C:/project/dc_7_16/Seg_cc.vhf.
+Unit <seg_cc> synthesized.
+
+
+Synthesizing Unit <seg_bb>.
+    Related source file is C:/project/dc_7_16/Seg_bb.vhf.
+Unit <seg_bb> synthesized.
+
+
+Synthesizing Unit <seg_aa>.
+    Related source file is C:/project/dc_7_16/Seg_aa.vhf.
+Unit <seg_aa> synthesized.
+
+
+Synthesizing Unit <dc_7_16>.
+    Related source file is C:/project/dc_7_16/DC_7_16.vhf.
+Unit <dc_7_16> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Advanced Registered AddSub inference ...
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <dc_7_16> ...
+
+Optimizing unit <seg_aa> ...
+
+Optimizing unit <seg_bb> ...
+
+Optimizing unit <seg_cc> ...
+
+Optimizing unit <seg_dd> ...
+
+Optimizing unit <seg_ee> ...
+
+Optimizing unit <seg_ff> ...
+
+Optimizing unit <seg_gg> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : dc_7_16.ngr
+Top Level Output File Name         : dc_7_16
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : xc9500xl
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+Clock Enable                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 11
+
+Cell Usage :
+# BELS                             : 10
+#      AND3                        : 3
+#      OR3                         : 3
+#      OR4                         : 4
+# IO Buffers                       : 11
+#      IBUF                        : 4
+#      OBUF                        : 7
+# Others                           : 22
+#      AND2B1                      : 1
+#      AND3B1                      : 1
+#      AND3B2                      : 3
+#      AND3B3                      : 1
+#      AND4B1                      : 5
+#      AND4B2                      : 5
+#      AND4B3                      : 6
+=========================================================================
+CPU : 0.72 / 0.97 s | Elapsed : 1.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 50856 kilobytes
+
+

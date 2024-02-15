@@ -1,0 +1,1 @@
+sch2vhdl -family xc9500xl -flat -suppress -w seg_a.sch seg_a.vhf

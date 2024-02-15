@@ -1,0 +1,33 @@
+V1 32
+FL c:/project/dz/seg_C.vhf 2023/11/07.10:43:03
+FL c:/project/dz/seg_A.vhf 2023/11/07.10:43:02
+FL C:/project/DZ/seg_C.vhf 2023/11/07.13:40:08
+EN work/SEG_C           FL C:/project/DZ/seg_C.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_C/BEHAVIORAL FL C:/project/DZ/seg_C.vhf EN work/SEG_C CP AND2B1 \
+      CP XOR2           CP OR2
+FL C:/project/DZ/DZ_main.vhf 2023/11/07.13:36:35
+FL C:/project/DZ/seg_A.vhf 2023/11/07.10:43:02
+EN work/SEG_A           FL C:/project/DZ/seg_A.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_A/BEHAVIORAL FL C:/project/DZ/seg_A.vhf EN work/SEG_A CP AND2 \
+      CP AND2B1
+FL c:/project/dz/seg_D.vhf 2023/11/07.10:43:03
+FL c:/project/dz/seg_B.vhf 2023/11/07.10:43:02
+FL C:/project/DZ/seg_D.vhf 2023/11/07.13:15:27
+EN work/SEG_D           FL C:/project/DZ/seg_D.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_D/BEHAVIORAL FL C:/project/DZ/seg_D.vhf EN work/SEG_D CP XOR2 \
+      CP AND2B1
+FL C:/project/DZ/dz_main.vhf 2023/11/07.13:36:35
+EN work/DZ_MAIN         FL C:/project/DZ/dz_main.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/DZ_MAIN/BEHAVIORAL FL C:/project/DZ/dz_main.vhf EN work/DZ_MAIN CP SEG_A \
+      CP SEG_B          CP SEG_C          CP SEG_D
+FL C:/project/DZ/seg_B.vhf 2023/11/07.10:43:02
+EN work/SEG_B           FL C:/project/DZ/seg_B.vhf PB ieee/STD_LOGIC_1164 \
+      PH ieee/NUMERIC_STD
+AR work/SEG_B/BEHAVIORAL FL C:/project/DZ/seg_B.vhf EN work/SEG_B CP AND2B1 \
+      CP NOR2           CP NAND2B1
+FL c:/project/dz/DZ_main.vhf 2023/11/07.10:40:31
+FL c:/project/dz/dz_main.vhf 2023/11/07.10:40:31

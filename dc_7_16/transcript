@@ -1,0 +1,127 @@
+# Reading C:/modeltech_6.5b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5b May 21 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do Test.fdo 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_aa
+# -- Compiling architecture behavioral of seg_aa
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_bb
+# -- Compiling architecture behavioral of seg_bb
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_cc
+# -- Compiling architecture behavioral of seg_cc
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_dd
+# -- Compiling architecture behavioral of seg_dd
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_ee
+# -- Compiling architecture behavioral of seg_ee
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_ff
+# -- Compiling architecture behavioral of seg_ff
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity seg_gg
+# -- Compiling architecture behavioral of seg_gg
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Compiling entity dc_7_16
+# -- Compiling architecture behavioral of dc_7_16
+# Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package numeric_std
+# -- Loading package textio
+# -- Loading package std_logic_textio
+# -- Compiling entity test
+# -- Compiling architecture testbench_arch of test
+# -- Compiling configuration dc_7_16_cfg
+# -- Loading entity test
+# -- Loading architecture testbench_arch of test
+# -- Loading package vital_timing
+# -- Loading package vcomponents
+# -- Loading entity dc_7_16
+# vsim -lib work -t 1ps Test 
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Администратор  Hostname: AMM-B36EDA6E307  ProcessID: 2580
+#           Attempting to use alternate WLF file "./wlftn84idy".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftn84idy
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-2009) At least one design unit was compiled with optimization level -O0 or -O1.
+# Use vdir -l command to find such design units.
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading std.textio(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.test(testbench_arch)#1
+# Loading ieee.vital_timing(body)
+# Loading unisim.vcomponents
+# Loading work.dc_7_16(behavioral)#1
+# Loading unisim.or4(or4_v)#1
+# Loading unisim.and4b3(and4b3_v)#1
+# Loading unisim.and4b1(and4b1_v)#1
+# Loading unisim.and4b2(and4b2_v)#1
+# Loading unisim.and3b1(and3b1_v)#1
+# Loading unisim.and3(and3_v)#1
+# Loading unisim.or3(or3_v)#1
+# Loading unisim.and2b1(and2b1_v)#1
+# Loading unisim.and3b2(and3b2_v)#1
+# Loading unisim.and3b3(and3b3_v)#1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 1950 ns  Iteration: 0  Process: /test/line__72 File: Test.vhw
+# Break in Process line__72 at Test.vhw line 334
+# Simulation Breakpoint: Break in Process line__72 at Test.vhw line 334
+# MACRO ./Test.fdo PAUSED at line 20

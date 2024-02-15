@@ -1,0 +1,2 @@
+sch2vhdl -family xc9500xl -flat -suppress -w block_C.sch block_c.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w block_C.sch block_c.vhf

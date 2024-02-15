@@ -1,0 +1,20 @@
+Release 6.3i - ngdbuild G.35
+Copyright (c) 1995-2004 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -dd _ngo -i -p xc9500xl dz_main.ngc dz_main.ngd 
+
+Reading NGO file "C:/project/DZ/dz_main.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 36412 kilobytes
+
+Writing NGD file "dz_main.ngd" ...
+
+Writing NGDBUILD log file "dz_main.bld"...

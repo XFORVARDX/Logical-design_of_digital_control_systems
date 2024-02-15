@@ -1,0 +1,79 @@
+# Schematic : PDCL (jhdparse)
+__projnav/DC_7_16_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_aa_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_bb_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_cc_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_dd_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ee_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_ff_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/Seg_gg_jhdparse_tcl.rsp
+# Bencher Waveform : PDCL (jhdparse)
+# Schematic : PDCL (jhdparse)
+__projnav/schema1verB_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_A_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_b_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_C_jhdparse_tcl.rsp
+# Schematic : PDCL (jhdparse)
+__projnav/block_D_jhdparse_tcl.rsp
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+dc_7_16.lso
+# xst flow : RunXST
+dc_7_16.syr
+dc_7_16.prj
+dc_7_16.sprj
+dc_7_16.ana
+dc_7_16.stx
+dc_7_16.cmd_log
+seg_ee.ngc
+dc_7_16.ngc
+seg_ee.ngr
+dc_7_16.ngr
+# Implmentation : Translate (CPLD flow)
+__projnav/dc_7_16_edfTOngd_tcl.rsp
+dc_7_16.ngd
+dc_7_16.bld
+dc_7_16_ngdbuild.nav
+_ngo/netlist.lst
+.untf
+dc_7_16_html
+dc_7_16.cmd_log
+# Implmentation : Fit
+__projnav/dc_7_16_ngdTOvm6_tcl.rsp
+dc_7_16.vm6
+dc_7_16.cxt
+dc_7_16.blx
+dc_7_16.mfd
+dc_7_16.rpt
+dc_7_16.log
+dc_7_16.pnx
+dc_7_16.gyd
+dc_7_16.xml
+dc_7_16_build.xml
+dc_7_16DZ2.ptf
+dc_7_16.bl
+errors.xml
+tmperr.err
+dc_7_16.cmd_log
+# Generate Programming File (CPLD flow)
+__projnav/dc_7_16_vm6TOjed_tcl.rsp
+dc_7_16.jed
+dc_7_16.isc
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16_html
+dc_7_16._hrpt
+dc_7_16.cmd_log
+# Implmentation : FitRpt
+dc_7_16.imp

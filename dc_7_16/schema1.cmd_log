@@ -1,0 +1,46 @@
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+XSLTProcess "schema1_build.xml"
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+XSLTProcess "schema1_build.xml"
+xst -intstyle ise -ifn __projnav/schema1.xst -ofn schema1.syr
+ngdbuild -dd _ngo -uc bind.ucf -p xc9500xl schema1.ngc schema1.ngd
+cpldfit -p xc95288xl-6-TQ144 -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 54 -pterms 25 -unused float -power std -terminate keeper schema1.ngd
+hprep6 -s IEEE1149 -n schema1 -i schema1
+XSLTProcess "schema1_build.xml"
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
+sch2vhdl -family xc9500xl -flat -suppress -w schema1.sch schema1.vhf
